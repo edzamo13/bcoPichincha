@@ -1,5 +1,3 @@
-# bcoPichincha
-
 # Docker Compose cuenta-bancaria
 ***
 Aplicación Back End para la administración de servicios REST.
